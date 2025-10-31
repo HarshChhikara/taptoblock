@@ -1,11 +1,12 @@
-# TP TO BLOCK
+# TAP TO BLOCK
 ![](./assets/icon.png)
+
 A game created using the Flame Engine.
 
 ## About:
 A basic tapping game created using Flutter Flame engine asking the player to keep the disc inside the box and not letting it esscape
 
 ### Example
-[PlayStore Link]()
+[PlayStore Link](https://play.google.com/store/apps/details?id=app.harshchhikara.taptoblock)
 
 Created by [Harsh Chhikara](https://www.linkedin.com/in/harsh-chhikara-191a84175/)
